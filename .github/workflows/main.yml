@@ -1,0 +1,2 @@
+- name: Manifest tool
+  uses: pixelfederation/gh-action-manifest-tool@v0.1.0
